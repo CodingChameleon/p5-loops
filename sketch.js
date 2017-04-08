@@ -22,4 +22,9 @@ function draw(){
         fill(225, 35, 1);
         ellipse(x, 10, 10, 10);
     }
+    
+     for(var x = 0; x < 650; x = x + 10){
+        fill(225, 35, 1);
+        ellipse(x, 40, 10, 10);
+    }
 }
